@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploying a Static Website with Amazon S3 on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</title>
+    <link>http://HuuDung113.github.io/6-s3-static-website/</link>
+    <description>Recent content in Deploying a Static Website with Amazon S3 on WORK WITH AMAZON SYSTEM MANAGER - SESSION MANAGER</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://HuuDung113.github.io/6-s3-static-website/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
